@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/constants-float64-max-safe-integer": "^0.0.x",
     "@stdlib/constants-float64-min-safe-integer": "^0.0.x",
-    "@stdlib/math-base-assert-is-integer": "^0.0.x"
+    "@stdlib/math-base-assert-is-integer": "^0.0.x",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.0.x",
