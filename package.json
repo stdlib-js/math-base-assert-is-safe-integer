@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-safe-integer",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Test if a finite double-precision floating-point number is a safe integer.",
   "license": "Apache-2.0",
   "author": {
@@ -37,9 +37,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-float64-max-safe-integer": "^0.1.1",
-    "@stdlib/constants-float64-min-safe-integer": "^0.1.1",
-    "@stdlib/math-base-assert-is-integer": "^0.1.1"
+    "@stdlib/constants-float64-max-safe-integer": "^0.2.0",
+    "@stdlib/constants-float64-min-safe-integer": "^0.2.0",
+    "@stdlib/math-base-assert-is-integer": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.1.1",
