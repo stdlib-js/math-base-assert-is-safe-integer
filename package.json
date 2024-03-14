@@ -39,15 +39,18 @@
   "dependencies": {
     "@stdlib/constants-float64-max-safe-integer": "^0.2.1",
     "@stdlib/constants-float64-min-safe-integer": "^0.2.1",
-    "@stdlib/math-base-assert-is-integer": "^0.2.2"
+    "@stdlib/math-base-assert-is-integer": "^0.2.3",
+    "@stdlib/utils-library-manifest": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.1",
+    "@stdlib/boolean-ctor": "^0.2.1",
     "@stdlib/constants-float64-ninf": "^0.2.1",
     "@stdlib/constants-float64-pinf": "^0.2.1",
     "@stdlib/math-base-special-round": "^0.2.1",
     "@stdlib/math-base-special-trunc": "^0.2.1",
     "@stdlib/random-base-randu": "^0.2.1",
+    "@stdlib/utils-try-require": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
