@@ -65,7 +65,7 @@ var isSafeInteger = require( '@stdlib/math-base-assert-is-safe-integer' );
 
 #### isSafeInteger( x )
 
-Tests if a finite [double-precision floating-point number][ieee754] is a safe `integer`.
+Tests if a finite [double-precision floating-point number][ieee754] is a safe integer.
 
 ```javascript
 var bool = isSafeInteger( 1.0 );
