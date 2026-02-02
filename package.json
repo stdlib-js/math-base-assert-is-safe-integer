@@ -42,7 +42,7 @@
   "dependencies": {
     "@stdlib/constants-float64-max-safe-integer": "^0.2.2",
     "@stdlib/constants-float64-min-safe-integer": "^0.2.2",
-    "@stdlib/math-base-assert-is-integer": "^0.2.5",
+    "@stdlib/math-base-assert-is-integer": "^0.2.6",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
@@ -52,7 +52,7 @@
     "@stdlib/constants-float64-pinf": "^0.2.2",
     "@stdlib/math-base-special-trunc": "^0.2.2",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
-    "@stdlib/random-base-randu": "^0.2.1",
+    "@stdlib/random-base-randu": "^0.2.2",
     "@stdlib/utils-try-require": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
