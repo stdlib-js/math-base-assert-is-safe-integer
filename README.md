@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isSafeInteger from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-safe-integer@deno/mod.js';
+import isSafeInteger from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-safe-integer@v0.3.2-deno/mod.js';
 ```
 
 #### isSafeInteger( x )
@@ -91,7 +91,7 @@ var bool = isSafeInteger( 1.0 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isSafeInteger from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-safe-integer@deno/mod.js';
+import isSafeInteger from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-safe-integer@v0.3.2-deno/mod.js';
 
 var bool = isSafeInteger( -5.0 );
 // returns true
